@@ -1,0 +1,1 @@
+You can place static assets (images, etc.) in this folder if needed.
